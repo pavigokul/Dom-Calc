@@ -1,0 +1,27 @@
+.border{
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(241, 241, 241);
+    max-width: 500px;
+    height: 480px;
+
+}
+#result{
+    background-color: darkgray;
+}
+.row{
+    padding:20px;
+
+}
+#c63{
+    padding-left:15%;
+}
+button{
+    border: none;
+    padding: 5px;
+    font-weight: bold;
+}
+
+
+
+
